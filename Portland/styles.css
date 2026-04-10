@@ -20,7 +20,7 @@ body {
     linear-gradient(180deg, rgba(11,18,32,0.42), rgba(11,18,32,0.7)),
     radial-gradient(60% 80% at 15% 10%, rgba(94,184,255,0.12), transparent 50%),
     radial-gradient(70% 70% at 85% 5%, rgba(142,228,255,0.10), transparent 45%),
-    url("assets/truck-bg.jpg");
+    url("assets/background.jpg");
   background-size: cover, auto, auto, cover;
   background-repeat: no-repeat;
   background-position: center, 15% 10%, 85% 5%, center;
